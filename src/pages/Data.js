@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { FaPlus, FaEdit, FaTrash, FaEye, FaFileExcel, FaUpload } from 'react-icons/fa';
+import { FaPlus, FaEdit, FaTrash, FaEye, FaFileExcel } from 'react-icons/fa';
 import axios from 'axios';
 import toast from 'react-hot-toast';
 import * as XLSX from 'xlsx';
