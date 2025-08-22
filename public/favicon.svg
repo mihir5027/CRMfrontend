@@ -1,0 +1,12 @@
+<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main blue shape (N/M letterform) -->
+  <path 
+    d="M6 6 L6 26 L10 26 L10 12 L20 26 L24 26 L24 6 L20 6 L20 20 L10 6 Z" 
+    fill="#2563EB"
+  />
+  <!-- Orange-yellow accent shape -->
+  <path 
+    d="M20 20 L22 20 L22 22 L20 22 Z" 
+    fill="#F59E0B"
+  />
+</svg>
