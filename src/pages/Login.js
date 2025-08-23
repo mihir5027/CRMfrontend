@@ -52,7 +52,7 @@ const Login = () => {
               Welcome Back
             </h2>
             <p className="text-gray-600">
-              Sign in to your Noven Group WhatsApp CRM account
+              Sign in to your Noven Group WhatsApp CRM accounts
             </p>
           </div>
 
